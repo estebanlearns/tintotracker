@@ -1,0 +1,6 @@
+{
+  "appId": "com.tintotracker.app",
+  "appName": "TintoTracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
